@@ -35,10 +35,12 @@ Node e npm:
 npm install
 ```
 
-Este comando ira installar todas as dependências do Node e iniciar o projeto, a porta padrão é 3031.
+Este comando ira installar todas as dependências do Node e iniciar o projeto, a porta padrão é 3001.
+Para a porta padrão do JSON-SERVER a porta padrão é 3000.
 
 - Por fim, execute este comando para rodar o projeto
 
 ```
 npm run dev
+npm run backend
 ```
