@@ -1,0 +1,31 @@
+{
+  "funcionario": {
+    "nome": "Limonada ",
+    "dataNascimento": "2023-10-11T00:00:00",
+    "cpf": "045.661.522-94",
+    "sexo": "Masculino",
+    "endereco": {
+      "numero": 444,
+      "bairro": "fxbfg",
+      "logradouro": "ghf",
+      "cidade": null,
+      "cep": "76916-000",
+      "estado": "Teste"
+    },
+    "contato": {
+      "telefones": [
+        {
+          "numero": "(69) 99952-1444",
+          "tipo": "Celular",
+          "principal": true
+        }
+      ],
+      "emails": [
+        {
+          "email": "renanro919@gmail.com",
+          "principal": true
+        }
+      ]
+    }
+  }
+}
