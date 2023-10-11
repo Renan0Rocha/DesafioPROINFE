@@ -1,22 +1,22 @@
 {
   "funcionario": {
-    "nome": "Limonada ",
-    "dataNascimento": "2023-10-11T00:00:00",
-    "cpf": "045.661.522-94",
     "sexo": "Masculino",
+    "cpf": "045.661.522-94",
+    "dataNascimento": "2023-10-11T00:00:00",
+    "nome": "Renan da Rocha Santos",
     "endereco": {
-      "numero": 444,
-      "bairro": "fxbfg",
-      "logradouro": "ghf",
-      "cidade": null,
       "cep": "76916-000",
-      "estado": "Teste"
+      "cidade": null,
+      "estado": "Teste",
+      "logradouro": "ghf",
+      "bairro": "fxbfg",
+      "numero": 444
     },
     "contato": {
       "telefones": [
         {
           "numero": "(69) 99952-1444",
-          "tipo": "Celular",
+          "tipo": "Casa",
           "principal": true
         }
       ],
